@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "A stream",
+      "description": "description of stream",
+      "id": 1
+    },
+    {
+      "title": "Create a stream",
+      "description": "I made this bastard.",
+      "userId": "115291774580200494183",
+      "id": 2
+    },
+    {
+      "title": "Prog Nav",
+      "description": "Edited this bad boy too",
+      "userId": "115291774580200494183",
+      "id": 3
+    },
+    {
+      "title": "Another Prog Nav",
+      "description": "Edited this stream",
+      "id": 4
+    },
+    {
+      "title": "Stream Title",
+      "description": "Refactored form component",
+      "userId": "115291774580200494183",
+      "id": 5
+    }
+  ]
+}
